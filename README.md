@@ -85,19 +85,3 @@ Prepared a 3-minute demo presentation that:
 - Reflects on what I learned during the Mission
 
 ---
-
-### 📎 Task 6 – Submission Package
-
-✔ Updated CV  
-✔ LinkedIn and GitHub Profiles  
-✔ AI Prototype with README  
-✔ Presentation Slides  
-✔ Jira Board Screenshot
-
----
-
-## 🔗 Useful Links
-
-- [Azure Custom Vision Docs](https://learn.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/)
-- [Project Demo (if deployed)](https://your-deployed-url.com)
-- [GitHub Repo](https://github.com/yourusername/car-classifier-prototype)
